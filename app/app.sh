@@ -1,1 +1,1 @@
-echo "Main branch version"
+echo "Main + Feature version"
