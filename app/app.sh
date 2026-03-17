@@ -1,1 +1,1 @@
-echo "logging enabled"
+echo "adiing feature-update line"
